@@ -13,15 +13,23 @@ Let's ~~get fun~~ write code together! 😄
 
 ## 📡 Contact me
 
-(telegram: skemenov)
+[![Telegram Badge]( https://img.shields.io/badge/text,%20call-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skemenov) 
+[![iCloud mail Badge]( https://img.shields.io/badge/mail-white?style=for-the-badge&logo=icloud&logoColor=blue)](mailto:skemenov@icloud.com)
+<!---
+[![linkedIn Badge]( https://img.shields.io/badge/visit-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/sergey-kemenov-119b4339)
+--->
 
 #
 
 👀 I’m interested in Swift, SwiftUI.
   
-🌱 I completed an iOS developer course from Yandex.Practicum and made four iOS apps - NFT-marketplace, Tracker, ImageFeed and MovieQuiz.
-
 🔭 I’m trying to make my own macOS screensaver using Swift, because my favorite Countdown screensaver stopped working properly and the developer abandoned his app. I hope to make a working version 😉
+
+🌱 I completed an iOS developer course from Yandex.Practicum and made four iOS apps:
+[NFT-marketplace](https://github.com/SKemenov/iOS-FakeNFT-T5),
+[Tracker](https://github.com/SKemenov/iOS-Tracker),
+[ImageFeed](https://github.com/SKemenov/ImageFeed-ios) and 
+[MovieQuiz](https://github.com/SKemenov/MovieQuiz-ios).
 
 
 ## 👨‍💻 Skills
