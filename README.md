@@ -1,9 +1,14 @@
-# 👋 Hello everyone, It's Sergey
+# 👋 Hello everyone, It's Sergey  
+### I'm an enthusiastic iOS developer from Moscow  
+[![Telegram Badge]( https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skemenov) 
+[![iCloud mail Badge]( https://img.shields.io/badge/mail-white?style=for-the-badge&logo=icloud&logoColor=blue)](mailto:skemenov@icloud.com)
+<!---
+[![linkedIn Badge]( https://img.shields.io/badge/visit-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/sergey-kemenov-119b4339)
+--->
 
 
-### ✨ About me
 
-I'm an enthusiastic iOS developer from Moscow.
+## ✨ About me
 
 I like creating apps for myself, for you, for everybody. Apps help us every day, they make our lives brighter, more interesting, more exciting!
 
@@ -11,17 +16,9 @@ Let's ~~get fun~~ write code together! 😄
 
 
 
-## 📡 Contact me
+## 📡 Projects
 
-[![Telegram Badge]( https://img.shields.io/badge/text,%20call-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skemenov) 
-[![iCloud mail Badge]( https://img.shields.io/badge/mail-white?style=for-the-badge&logo=icloud&logoColor=blue)](mailto:skemenov@icloud.com)
-<!---
-[![linkedIn Badge]( https://img.shields.io/badge/visit-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/sergey-kemenov-119b4339)
---->
-
-#
-
-👀 I’m interested in Swift, SwiftUI.
+👀 I’m interested in Swift, SwiftUI. Also I'm going to study Alamofire, SnapKit and Real frameworks and of course implement them into my projects.
   
 🔭 I’m trying to make my own macOS screensaver using Swift, because my favorite Countdown screensaver stopped working properly and the developer abandoned his app. I hope to make a working version 😉
 
