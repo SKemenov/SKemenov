@@ -18,10 +18,13 @@ Let's ~~get fun~~ write code together! 😄
 
 ## 📡 Projects
 
+🔭 I’ve finally released my pet-project - 
+[Minimal Countdown Screensaver for macOS](https://github.com/SKemenov/MinimalCountdown)!
+
+I've tried to make my own macOS screensaver without storyboards using Swift only, because my favorite Countdown screensaver stopped working properly and the developer abandoned his app. I hope enjoy my version 😉
+
 👀 I’m interested in Swift, SwiftUI. Also I'm going to study Alamofire, SnapKit and Real frameworks and of course implement them into my projects.
   
-🔭 I’m trying to make my own macOS screensaver using Swift, because my favorite Countdown screensaver stopped working properly and the developer abandoned his app. I hope to make a working version 😉
-
 🌱 I completed an iOS developer course from Yandex.Practicum and made four iOS apps:
 [NFT-marketplace](https://github.com/SKemenov/iOS-FakeNFT-T5),
 [Tracker](https://github.com/SKemenov/iOS-Tracker),
@@ -38,6 +41,8 @@ Let's ~~get fun~~ write code together! 😄
 📱 UI: `InterfaceBuilder`, `AutoLayout`, `code layout`, `dark mode`, `localization` (for right-to-left languages too)
 
 🔬 UIKit: `UITableView`, `UICollectionView`, `UIScrollView`, `UIPageController`
+
+🔬 AppKit: `NSWindowsController`, `NSViewController`, `UserDefaults`, `ScreenSaverDefaults`
 
 🚀 API: `URLRequest`, `URLSession`, `JSON`, `imdb API`, `unsplash API`
 
