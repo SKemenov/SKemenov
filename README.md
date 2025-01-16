@@ -18,47 +18,34 @@ Let's ~~get fun~~ write code together! 😄
 
 ## 📡 Projects
 
-🔭 I’ve finally released my pet-project - 
+🔭 I'm pleased to announce the release of my long-awaited pet project - 
 [Minimal Countdown Screensaver for macOS](https://github.com/SKemenov/MinimalCountdown)!
 
-I've tried to make my own macOS screensaver without storyboards using Swift only, because my favorite Countdown screensaver stopped working properly and the developer abandoned his app. I hope enjoy my version 😉
+After my favorite Countdown screensaver stopped working correctly and the developer abandoned his app, I decided to create my own macOS screensaver entirely in Swift. I hope you enjoy my version! 😉
 
-👀 I’m interested in Swift, SwiftUI. Also I'm going to study Alamofire, SnapKit and Real frameworks and of course implement them into my projects.
-  
-🌱 I completed an iOS developer course from Yandex.Practicum and made four iOS apps:
-[NFT-marketplace](https://github.com/SKemenov/iOS-FakeNFT-T5),
-[Tracker](https://github.com/SKemenov/iOS-Tracker),
-[ImageFeed](https://github.com/SKemenov/ImageFeed-ios) and 
-[MovieQuiz](https://github.com/SKemenov/MovieQuiz-ios).
-
+👀 I'm interested in Swift and SwiftUI. Additionally, I intend to explore more frameworks and, of course, implement them into my projects.
 
 ## 👨‍💻 Skills
 
-🥇 Patterns: `MVC`, `MVP`, `MVVM`
+🥇 Patterns: `MVC`, `MVP`, `MVVM + Coordinator`
 
-💫 Git: `git console`, `GitHub`, `Sourcetree`
+💫 Git: `GitHub`, `Fork`, `git console`
 
-📱 UI: `InterfaceBuilder`, `AutoLayout`, `code layout`, `dark mode`, `localization` (for right-to-left languages too)
+📱 UI: `code layout (UIKit, SwiftUI, AppKit)`, `AutoLayout`, `InterfaceBuilder`
 
-🔬 UIKit: `UITableView`, `UICollectionView`, `UIScrollView`, `UIPageController`
+🚀 Network: `URLSession`, `Swagger`, `Moya`
 
-🔬 AppKit: `NSWindowsController`, `NSViewController`, `UserDefaults`, `ScreenSaverDefaults`
-
-🚀 API: `URLRequest`, `URLSession`, `JSON`, `imdb API`, `unsplash API`
-
-🗄 Data: `CoreData`, `UserDefaults`, `Keychain`
+🗄 Data: `CoreData`, `UserDefaults`, `Keychain`, `FileMananger`
 
 🔐 Access: `OAuth 2.0`
 
 🧐 Code style: `SwiftLint`, `Kodeco`
 
-🛠️ SPM, CocoaPods: `Kingfisher`, `KeychainWrapper`, `ProgressHUD`
-
 🌟 Tests: `Unit-test`, `UI-test`, `snapshot-test`
 
 📈 Analytics: `Yandex.Metrica`
 
-⚙️ Tools: `Figma`, `Charles`, `Postman`, `Notion`, `GitHub Project`, `Jira`
+⚙️ Tools: `Figma`, `Proximan`, `Postman`, `Charles`, `Jira`, `Linear`, `Notion`, `Trello`, `GitHub Project`
 
 
 _to be continued..._
