@@ -12,6 +12,8 @@
 
 I like creating apps for myself, for you, for everybody. Apps help us every day, they make our lives brighter, more interesting, more exciting!
 
+I'm interested in Swift and SwiftUI. Additionally, I intend to explore more frameworks and, of course, try to implement them into my projects.
+
 Let's ~~get fun~~ write code together! 😄
 
 
@@ -22,8 +24,6 @@ Let's ~~get fun~~ write code together! 😄
 [Minimal Countdown Screensaver for macOS](https://github.com/SKemenov/MinimalCountdown)!
 
 After my favorite Countdown screensaver stopped working correctly and the developer abandoned his app, I decided to create my own macOS screensaver entirely in Swift. I hope you enjoy my version! 😉
-
-👀 I'm interested in Swift and SwiftUI. Additionally, I intend to explore more frameworks and, of course, implement them into my projects.
 
 ## 👨‍💻 Skills
 
