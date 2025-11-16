@@ -1,59 +1,37 @@
-# 👋 Hello everyone, It's Sergey  
-### I'm an enthusiastic iOS developer from Moscow  
-[![Telegram Badge]( https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skemenov) 
-[![iCloud mail Badge]( https://img.shields.io/badge/mail-white?style=for-the-badge&logo=icloud&logoColor=blue)](mailto:skemenov@icloud.com)
-<!---
-[![linkedIn Badge]( https://img.shields.io/badge/visit-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/sergey-kemenov-119b4339)
---->
+# Sergey Kemenov
+### iOS Developer
 
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skemenov)
+[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=icloud&logoColor=blue)](mailto:skemenov@icloud.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-kemenov-119b4339) -->
 
+## About Me
+I develop iOS applications using SwiftUI and Swift for HORECA, street retail, and entertainment. My focus is on creating reliable and user-friendly software. I am open to exploring new frameworks and integrating them into projects.
 
-## ✨ About me
+## Published Apps
+- **FastTable for Business**  
+  iOS app for restaurant management: table bookings, order tracking, staff control, and real-time notifications. Contributed as iOS Developer in a team using SwiftUI for seamless HORECA workflows.  
+  [App Store](https://apps.apple.com/ru/app/fasttable-for-business/id6484270051)
 
-I like creating apps for myself, for you, for everybody. Apps help us every day, they make our lives brighter, more interesting, more exciting!
+## Pet Projects
+- **SwiftLintPlugin**  
+  SPM package integrating SwiftLint as a build-tool plugin for automatic linting of Xcode targets and SPM packages during pre-build. Supports custom rules and simple configuration.  
+  [Repository](https://github.com/SKemenov/SwiftLintPlugin)
 
-I'm interested in Swift and SwiftUI. Additionally, I intend to explore more frameworks and, of course, try to implement them into my projects.
+- **Minimal Countdown Screensaver for macOS**  
+  A Swift-based screensaver for macOS, developed as a personal project to replace an outdated alternative.  
+  [Repository](https://github.com/SKemenov/MinimalCountdown)
 
-Let's ~~get fun~~ write code together! 😄
+## Skills
+`SwiftUI` `UIKit` `AppKit`  
+`SPM modularization` `async/await` `GCD`  
+`MVVM + Coordinator` `MVC` `MVP`  
+`Moya` `URLSession`  
+`CoreData` `UserDefaults` `Keychain` `FileManager`  
+`Unit tests` `UI tests` `Snapshot tests`  
+`SwiftLint` `GitHub Actions` `Fastlane`
 
-
-
-## 📡 Projects
-
-🔭 I'm pleased to announce the release of my long-awaited pet project - 
-[Minimal Countdown Screensaver for macOS](https://github.com/SKemenov/MinimalCountdown)!
-
-After my favorite Countdown screensaver stopped working correctly and the developer abandoned his app, I decided to create my own macOS screensaver entirely in Swift. I hope you enjoy my version! 😉
-
-## 👨‍💻 Skills
-
-🥇 Patterns: `MVC`, `MVP`, `MVVM + Coordinator`
-
-💫 Git: `GitHub`, `Fork`, `git console`
-
-📱 UI: `code layout (UIKit, SwiftUI, AppKit)`, `AutoLayout`, `InterfaceBuilder`
-
-🚀 Network: `URLSession`, `Swagger`, `Moya`
-
-🗄 Data: `CoreData`, `UserDefaults`, `Keychain`, `FileMananger`
-
-🔐 Access: `OAuth 2.0`
-
-🧐 Code style: `SwiftLint`, `Kodeco`
-
-🌟 Tests: `Unit-test`, `UI-test`, `snapshot-test`
-
-📈 Analytics: `Yandex.Metrica`
-
-⚙️ Tools: `Figma`, `Proximan`, `Postman`, `Charles`, `Jira`, `Linear`, `Notion`, `Trello`, `GitHub Project`
-
-
-_to be continued..._
-
-
-## ⚡ Fun fact
-
-### ⛷️ 🕺 ⛰️ 🏖 🏃‍♂️ ☀️ 😎
+*To be continued...*
 
 <!---
 SKemenov/SKemenov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
