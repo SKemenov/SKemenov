@@ -1,11 +1,9 @@
-# Sergey Kemenov
-### iOS Developer
+## iOS Developer
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skemenov)
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=icloud&logoColor=blue)](mailto:skemenov@icloud.com)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-kemenov-119b4339) -->
 
-## About Me
 I develop iOS applications using SwiftUI and Swift for HORECA, street retail, and entertainment. My focus is on creating reliable and user-friendly software. I am open to exploring new frameworks and integrating them into projects.
 
 ## Published Apps
@@ -31,7 +29,6 @@ I develop iOS applications using SwiftUI and Swift for HORECA, street retail, an
 `Unit tests` `UI tests` `Snapshot tests`  
 `SwiftLint` `GitHub Actions` `Fastlane`
 
-*To be continued...*
 
 <!---
 SKemenov/SKemenov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
