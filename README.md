@@ -1,33 +1,31 @@
-## iOS Developer
+# Hi, I'm Sergey. iOS and macOS Developer
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skemenov)
-[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=icloud&logoColor=blue)](mailto:skemenov@icloud.com)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-kemenov-119b4339) -->
+I develop applications for iOS and macOS using SwiftUI and Swift.
+My goal is to create reliable and user-friendly software. 
 
-I develop iOS applications using SwiftUI and Swift for HORECA, street retail, and entertainment. My focus is on creating reliable and user-friendly software. I am open to exploring new frameworks and integrating them into projects.
+### Published Apps
 
-## Published Apps
-- **FastTable for Business**  
+- **FastTable for Business** for iOS
   iOS app for restaurant management: table bookings, order tracking, staff control, and real-time notifications. Contributed as iOS Developer in a team using SwiftUI for seamless HORECA workflows.  
   [App Store](https://apps.apple.com/ru/app/fasttable-for-business/id6484270051)
 
-## Pet Projects
+- **Minimal.md** - Markdown viewer & Quick Look for macOS  
+  Minimal.md opens the .md files you and your AI agents write, and shows them the way they were meant to be read — and it never changes them.  
+  [App Store](https://apps.apple.com/app/id6808280979)
+
+- **Minimal Countdown** - Screensaver for macOS  
+  A Swift-based screensaver for macOS, developed as a personal project to replace an outdated alternative.  
+  [Repository](https://github.com/SKemenov/MinimalCountdown)
+
+
+
+### My Projects
 - **SwiftLintPlugin**  
   SPM package integrating SwiftLint as a build-tool plugin for automatic linting of Xcode targets and SPM packages during pre-build. Supports custom rules and simple configuration.  
   [Repository](https://github.com/SKemenov/SwiftLintPlugin)
 
-- **Minimal Countdown Screensaver for macOS**  
-  A Swift-based screensaver for macOS, developed as a personal project to replace an outdated alternative.  
-  [Repository](https://github.com/SKemenov/MinimalCountdown)
-
-## Skills
-`SwiftUI` `UIKit` `AppKit`  
-`SPM modularization` `async/await` `GCD`  
-`MVVM + Coordinator` `MVC` `MVP`  
-`Moya` `URLSession`  
-`CoreData` `UserDefaults` `Keychain` `FileManager`  
-`Unit tests` `UI tests` `Snapshot tests`  
-`SwiftLint` `GitHub Actions` `Fastlane`
+> [!note]
+> You can find a complete list of my apps and contact me here: [skemenov.com](https://skemenov.com/)
 
 
 <!---
