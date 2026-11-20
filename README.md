@@ -9,8 +9,8 @@ My goal is to create reliable and user-friendly software.
   iOS app for restaurant management: table bookings, order tracking, staff control, and real-time notifications. Contributed as iOS Developer in a team using SwiftUI for seamless HORECA workflows.  
   [App Store](https://apps.apple.com/ru/app/fasttable-for-business/id6484270051)
 
-- **Minimal.md** - Markdown viewer & Quick Look for macOS  
-  Minimal.md opens the .md files you and your AI agents write, and shows them the way they were meant to be read — and it never changes them.  
+- **MinimalMD** - Markdown viewer & Quick Look for macOS  
+  MinimalMD opens the .md files you and your AI agents write, and shows them the way they were meant to be read — and it never changes them.  
   [App Store](https://apps.apple.com/app/id6808280979)
 
 - **Minimal Countdown** - Screensaver for macOS  
